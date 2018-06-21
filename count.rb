@@ -39,7 +39,7 @@ file.each_line do |line|
     end
   end
 end
-
+#
 puts "Indexed #{file_path}"
 
 puts "Words count: "
